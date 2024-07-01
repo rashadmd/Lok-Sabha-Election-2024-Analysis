@@ -2,6 +2,17 @@
 
 ## By Rashad Mohammad, 4th Year CSE (AIML) Student, SRM University
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Dataset Overview](#dataset-overview)
+3. [Structure and Key Columns](#structure-and-key-columns)
+4. [Preprocessing Steps](#preprocessing-steps)
+5. [Exploratory Data Analysis](#exploratory-data-analysis)
+    - [Descriptive Statistics](#descriptive-statistics)
+    - [Categorical Analysis](#categorical-analysis)
+6. [Findings](#findings)
+    
 ### Introduction
 
 This project focuses on analyzing data extracted from the official website of the Election Commission of India at [ECI Results](https://results.eci.gov.in/). The dataset pertains to the Lok Sabha election results, offering a comprehensive view of the electoral outcomes across India. Using Python for data analysis and Power BI for visualization, this project aims to uncover significant insights from the election data. Analyzing these results is crucial for understanding voter preferences, evaluating political party performance, and identifying demographic and regional voting patterns.
@@ -86,4 +97,3 @@ To evaluate electoral performance, we categorized election outcomes into distinc
 ---
 
 These are some of my findings, and I will provide the Python notebook and Power BI dashboards showcasing these insights on my GitHub repository.
-
